@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Enes Arifinan
-- 👀 I’m interested in web devloping and programing
-- 🌱 I’m currently learning next.js
+- 👀 I’m interested in devloping and programing
 - 📫 You can reach me via enesarifinan@gmail.com
